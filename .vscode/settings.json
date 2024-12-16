@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "list": "c",
+        "s21_calc.h": "c",
+        "*.a": "c",
+        "cstdlib": "c",
+        "any": "c",
+        "complex": "c",
+        "chrono": "c",
+        "s21_math.h": "c",
+        "limits": "c",
+        "optional": "cpp",
+        "format": "cpp",
+        "system_error": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}
